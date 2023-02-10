@@ -1,0 +1,15 @@
+.banner{
+
+    background-color:Red;
+    width :100%;
+    height:200px;
+    margin-bottom:50px;
+  }
+.banner-text
+    {
+    color:Orange;
+    left:50%;
+    top:50%;
+    position:absolute;
+
+}
